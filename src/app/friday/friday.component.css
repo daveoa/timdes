@@ -6,7 +6,7 @@ img {
 }
 
 .desc {
-  text-align: justify;
+  text-align: left;
   display: block;
   margin-left: 0;
   margin-right: auto;
