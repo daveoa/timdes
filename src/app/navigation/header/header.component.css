@@ -1,0 +1,42 @@
+a {
+  text-decoration: none;
+  color: white;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+a:hover,
+a:active {
+  color: lightgray;
+}
+
+.navigation-items {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  float: right;
+  padding-left: 2em;
+}
+
+.navigation-items li {
+  float: right;
+  margin-left: 15px;
+}
+
+/* .navigation-items li:hover {
+  background-color: #5c34a3;
+  border-radius: 15px;
+} */
+
+.navigation-items li a {
+  font-size: 80%;
+}
+
+mat-toolbar {
+  border-radius: 3px;
+}
+
+@media (max-width: 999px) {
+  mat-toolbar {
+    border-radius: 0px;
+  }
+}

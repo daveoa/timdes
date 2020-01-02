@@ -1,0 +1,21 @@
+<mat-toolbar color="primary">
+  <div fxHide.gt-sm>
+    <button mat-icon-button (click)="onToggleSidenav()">
+      <mat-icon>menu</mat-icon>
+    </button>
+  </div>
+  <div>
+    <h3>LU DF Studenta dzīvē</h3>
+  </div>
+  <div fxFlex fxLayout fxLayoutAlign="end" fxHide.sm fxHide.xs>
+    <ul fxLayout fxLayoutGap="15px" class="navigation-items">
+      <li><a routerLink="/1" routerLinkActive="active">Pirmdiena</a></li>
+      <li><a routerLink="/2" routerLinkActive="active">Otrdiena</a></li>
+      <li><a routerLink="/3" routerLinkActive="active">Trešdiena</a></li>
+      <li><a routerLink="/4" routerLinkActive="active">Ceturtdiena</a></li>
+      <li><a routerLink="/5" routerLinkActive="active">Piektdiena</a></li>
+      <li><a routerLink="/6" routerLinkActive="active">Sestdiena</a></li>
+      <li><a routerLink="/7" routerLinkActive="active">Svētdiena</a></li>
+    </ul>
+  </div>
+</mat-toolbar>
