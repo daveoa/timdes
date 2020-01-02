@@ -1,0 +1,17 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  min-width: 100%;
+  background-color: #c2185b;
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+
+@media (max-width: 1360px) {
+  .footer {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
