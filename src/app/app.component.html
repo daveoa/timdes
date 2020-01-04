@@ -5,11 +5,19 @@
   <mat-sidenav-content>
     <app-header (sidenavToggle)="sidenav.toggle()"></app-header>
     <main>
-      <p style="text-align: center; font-size: .7em;">
-        Mājaslapu veidoja Deivs Oskars Alksnis da17041 2019/2020. gadā
-      </p>
+      <div class="mini">
+        <span style="text-align: center; font-size: .7em;">
+          {{ "MADEBY.TEXT" | translate }}
+        </span>
+        <label for="">
+          <select #langselect (change)="translate.use(langselect.value)">
+            <option *ngFor="let lang of translate.getLangs()" [value]="lang">
+              {{ lang }}</option
+            >
+          </select>
+        </label>
+      </div>
       <router-outlet></router-outlet>
     </main>
-    <app-footer></app-footer>
   </mat-sidenav-content>
 </mat-sidenav-container>

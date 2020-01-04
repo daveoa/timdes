@@ -1,10 +1,16 @@
-import { Component } from '@angular/core';
+import { Component } from "@angular/core";
+import { TranslateService } from "@ngx-translate/core";
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: "app-root",
+  templateUrl: "./app.component.html",
+  styleUrls: ["./app.component.css"]
 })
 export class AppComponent {
-  title = 'timdes';
+  constructor(public translate: TranslateService) {
+    translate.addLangs(["en", "lv"]);
+    translate.setDefaultLang("lv");
+    const browserLang = translate.getBrowserLang();
+    translate.use(browserLang.match(/en|lv/) ? browserLang : "lv");
+  }
 }

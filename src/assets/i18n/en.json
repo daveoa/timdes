@@ -1,0 +1,51 @@
+{
+  "MADEBY": {
+    "TITLE": "Life of LU DF student",
+    "TEXT": "This website was made by Deivs Oskars Alksnis in the year 2019/2020"
+  },
+  "DAYS": {
+    "ONE": "Monday",
+    "TWO": "Tuesday",
+    "THREE": "Wednesday",
+    "FOUR": "Thursday",
+    "FIVE": "Friday",
+    "SIX": "Saturday",
+    "SEVEN": "Sunday"
+  },
+  "MONDAY": {
+    "H1": "Monday is difficult",
+    "H2": "So let's take it easy...",
+    "P1": "The word \"Monday\" invokes the most negative weekday related emotions. Truly, this day triumphs as the week's worst day.",
+    "P2": "The reason for this negative connection with Mondays researchers have studied for a good time now, and only recenetly have they proposed backed up and logical reasons as to why it is like it is. One research states that the blame is on the difficulty of transistioning between relax-mode and work-mode. You have to wake up earlier than you would on weekends, thus, for people who went to sleep at the same time the day previous, the time spent resting turns out way less in comparison to the weekend. In addition, the students feel self-induced pressure that comes up, because LU DF students have a pre-programmed destain for having to work after just relaxing."
+  },
+  "TUESDAY": {
+    "H1": "Tuesday is the start of awakening",
+    "P": "Tuesday is the day that follows the LU DF student despised Monday. This day is the awakening time for students, who survived the harsh Monday and can continue their student lives with their own sheer willpower. The others, who have not recouperated from Monday, that is, aren't able to adapt and live in these harsh conditions, on Tuesday are still as beat-up and crushed as they were on Monday. The exceptional ones excel on this day with their power, while the weak ones struggle to survive Tuesday's challenges. Only the strong ones grow, and the weak LU DF students should take example from the strong LU DF students. To live or to survive, these diverging paths show themselves infront of the students. Those who choose to survive won't change thier current situation, while those who choose to live will turn into proper and strong computer science students during tomorrow's metamorphosis process."
+  },
+  "WEDNESDAY": {
+    "H1": "Harmony on Wednesday",
+    "P": "It turns out that LU DF students are capable of choosing the more appropriate option out of living or surviving, which is choosing to live. At least the overwhelming majority have made that decision, while the rest have fallen out. These fallen out students aren't worth of mention, for that reason they aren't counted as a part of the student collective. If the strong ones awoke on Tuesday, then on Wednesday the rest are just having thier awakening. It's in the blood of LU DF students to start work late and poorly, but to later have it done proper with 100%. Wednesday is the day when the louziness and laziness have already been thrown aside, serious and correct studying is now conducted. What's interesting is that this mentality resonates in multiple students, all of them work together as if they were controlled by a single artificial intelligence. Wednesday is truly a wonderful day for the growth of LU DF students."
+  },
+  "THURSDAY": {
+    "H1": "Continued effort on Thursday",
+    "P": "Luckily, the student harmony continues. Every single one of the students' goals and emotions are good-hearted and determined. The growth within students continues as it has never before - new studies and work is produced with 100% horepower effort. That is, if a student's effort could be measured in horsepowers, in my opinion, the correct term to call this measurement would be \"studypower\". It's guarranteed that the studypower for these students is at a lossless maximum - the pinacle of effort. Work, study, work, study, relaxation... what's that? Such a word doesn't exist in the dictionary of Thursday. Though knowingly or unknowingly the students will soon change their attitude on their studypower output to something even lower than there was. What horror. Everyone has already started worrying, because the footprints of Friday linger in the air."
+  },
+  "FRIDAY": {
+    "H1": "Friday's metamorphosis",
+    "P1": "That day has finally arrived in the week of a computer science student. This day serves as a barrier between relaxation and the life of a student. Every computer science student stands one some side of this barrier on this day.",
+    "P2": "Behind this barrier - the student alrady has the holidays on his mind, they don't see Friday as anything more than a day where only a third of studypower has to be used.",
+    "P3": "Inbetween the barrier - the student acknowledges the value and reason behind this holy workday, but can still manage to hold themselves together, devoting work with at least some worth to their studies.",
+    "P4": "Before this barrier - The other students would consider this type a weird one, but this kind is the most professional of all. Their mental fortitude is overwhelming compared to the rest. These type of students can't lured by falacies and temptations of relaxation. They will complete the week's remaining studies with honour and with the same output as any other day. Truly, the exceptional.",
+    "P5": "No matter how you look at it, the fact remains the same - this is the end of the week student's student life and this occurrence should be celebrated with the sigh of relief or with feeling gratification for their completed work."
+  },
+  "SATURDAY": {
+    "H1": "Saturday",
+    "H2": "Relaxation is great",
+    "P": "Saturday is an all in all good time for the LU DF student. This day is like the life-saving water for someone, who is dehydrated, stuck in the Saharan desert. Wake up whenever you want, do whatever you want - relax or continue studying and do homework. Anyone can do anyting they want! True freedom in its truest form. The things you can do and, more importantly, not do on this day. A proper student would continue studying things in the field of computer science, which had not been covered in lectures, bu even these students should realise that Saturday is a holy weekend's holiday, when nothing should be done. Play a videogame, go outside in the wild, do ANYTHING that isn;t related to computer science. Students live without or worries about their unfinished assignments. Only pleasant thoughts should populate the student's head, relaxation should be crancked up to the maximum."
+  },
+  "SUNDAY": {
+    "H1": "Sunday",
+    "H2": "The holidays... are ending?",
+    "P": "Every LU DF student has a sudden moment of realisation, where they realise the end of their weekend holidays is almost here un the worst start of a student's week right behind it. The realisation that the student life is just one big cycle, which loops throgh each day, each week and each month, as long as this person bears the title of the student. This isn't the only realisation the student can arrive to, some of them have unfinished homework that has to be done, because no studying should be done on Saturday. That is why Sundays are spent with last remainder of holiday the students have and a view back on thier studies. No matter how harsh this may seem to the LU DF student, all of them know that it is how it is and there is no other way for it to be. Skeptical about their current situation, the student with a raised eyebrow still has unsure plans on whta to do with thier homework, because, from the viewpoint of the student, this is still a holiday - why would a student concern themselves with work?"
+  }
+}

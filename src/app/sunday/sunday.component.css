@@ -41,16 +41,9 @@ img {
   color: lightcyan;
 }
 
-@media (max-width: 1490px) {
-  .text {
-    padding-top: 0;
-  }
-}
-
 @media (max-width: 1130px) {
   .title {
     padding-top: 1em;
-    top: 1em;
   }
   .text {
     clear: both;

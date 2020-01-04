@@ -5,17 +5,45 @@
     </button>
   </div>
   <div>
-    <h3>LU DF Studenta dzīvē</h3>
+    <h3>{{ "MADEBY.TITLE" | translate }}</h3>
   </div>
   <div fxFlex fxLayout fxLayoutAlign="end" fxHide.sm fxHide.xs>
     <ul fxLayout fxLayoutGap="15px" class="navigation-items">
-      <li><a routerLink="/1" routerLinkActive="active">Pirmdiena</a></li>
-      <li><a routerLink="/2" routerLinkActive="active">Otrdiena</a></li>
-      <li><a routerLink="/3" routerLinkActive="active">Trešdiena</a></li>
-      <li><a routerLink="/4" routerLinkActive="active">Ceturtdiena</a></li>
-      <li><a routerLink="/5" routerLinkActive="active">Piektdiena</a></li>
-      <li><a routerLink="/6" routerLinkActive="active">Sestdiena</a></li>
-      <li><a routerLink="/7" routerLinkActive="active">Svētdiena</a></li>
+      <li>
+        <a routerLink="/1" routerLinkActive="active">{{
+          "DAYS.ONE" | translate
+        }}</a>
+      </li>
+      <li>
+        <a routerLink="/2" routerLinkActive="active">{{
+          "DAYS.TWO" | translate
+        }}</a>
+      </li>
+      <li>
+        <a routerLink="/3" routerLinkActive="active">{{
+          "DAYS.THREE" | translate
+        }}</a>
+      </li>
+      <li>
+        <a routerLink="/4" routerLinkActive="active">{{
+          "DAYS.FOUR" | translate
+        }}</a>
+      </li>
+      <li>
+        <a routerLink="/5" routerLinkActive="active">{{
+          "DAYS.FIVE" | translate
+        }}</a>
+      </li>
+      <li>
+        <a routerLink="/6" routerLinkActive="active">{{
+          "DAYS.SIX" | translate
+        }}</a>
+      </li>
+      <li>
+        <a routerLink="/7" routerLinkActive="active">{{
+          "DAYS.SEVEN" | translate
+        }}</a>
+      </li>
     </ul>
   </div>
 </mat-toolbar>

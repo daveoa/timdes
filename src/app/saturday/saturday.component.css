@@ -43,7 +43,7 @@ img {
 
 @media (max-width: 1130px) {
   .title {
-    padding-top: 0;
+    padding-top: 1em;
   }
   .text {
     clear: both;
