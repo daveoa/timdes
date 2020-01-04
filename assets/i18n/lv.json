@@ -1,0 +1,51 @@
+{
+  "MADEBY": {
+    "TITLE": "LU DF Studenta dzīvē",
+    "TEXT": "Mājaslapu veidoja Deivs Oskars Alksnis da17041 2019/2020. gadā"
+  },
+  "DAYS": {
+    "ONE": "Pirmdiena",
+    "TWO": "Otrdiena",
+    "THREE": "Trešdiena",
+    "FOUR": "Ceturtdiena",
+    "FIVE": "Piektdiena",
+    "SIX": "Sestdiena",
+    "SEVEN": "Svētdiena"
+  },
+  "MONDAY": {
+    "H1": "Pirmdiena ir grūta",
+    "H2": "Tāpēc nemēģināsim daudz censties...",
+    "P1": "Vārds \"Pirmdiena\" rezonē LU DF studentos vissliktākās ar nedēļas dienām saistītās emocijas. Tik tiešām, šī diena triumfē kā nedēļas sliktākā diena.",
+    "P2": "Iemeslu šīm negatīvajām asociācijām ar Pirmdienu pētnieki ir meklējuši labu laiku, un tikai pēdējos gados ir izvirzīti pamatoti un loģiski iemesli kāpec tas tā varētu būt. Vienā pētijumā tika lēsts, ka jāvaino nevieglā pārslēgšanās no atpūtas uz darba režīmu. Jāceļās pirmdienā no rīta ir agrāk nekā brīvdienās, kā rezultātā cilvēkiem, kas viena un tajā pašā laikā iepriekšējā dienā aizgāja gulēt sanāk daudz mazāk izgulēties nekā tas būtu sanācis brīvdienās. Kā arī studentiem ir pašuzspiesta garīga slodze, kas parādās tāpēc, ka zemapziņā LU DF studentiem jau ir ieprogrammēta nepatika pret darba uzsākšanu pēc atpūtas."
+  },
+  "TUESDAY": {
+    "H1": "Otrdiena ir atmodas sākums",
+    "P": "Otrdiena ir diena, kas seko pēc visiem LU DF studentu ienīstās Pirmdienas. Šī diena ir atmodas laiks studentiem, kuri izdzīvoja skarbo Pirmdienu un ar savu gribasspēku spēj turpināt studenta dzīvi. Toties pārējie, tie, kas vēl no pirmdienas nav atkopušies, tas ir, nav no grūtas situācijas raduši pieradumu šādos apstākļos izdzīvot, Otrdienā vēl joprojām ir tik izmocīti un sagrauti kā pirmdienā. Izcilie šajā dienā izceļas ar savu spēku, kamēr vājie kristdami un klupdami cenšas pardzīvot Otrdienas izaicinājumus. Aug tikai spēcīgie, un no spēcīgajiem LU DF studentiem ne tik spēcīgajiem studentiem ir jāņem paraugs. Dzīvot vai izdzīvot, lūk šadi divi zarojoši ceļi rādās studentiem priekšā. Tie, kas izvēlēsies izdzīvot, savu pašreizējo situāciju nemainīs, kamēr tie, kas izvēlēsies dzīvot, metamorfozes procesā nākošajā dienā kļūs par kārtīgiem un spēcīgiem datorzinātņu studentiem."
+  },
+  "WEDNESDAY": {
+    "H1": "Trešdienā harmonija",
+    "P": "Izrādās, ka LU DF studenti ir spējīgi no dzīvošanas vai izdzīvošanas izvēles izvēlēties cienīgāko variantu, kas ir dzīvot. Pārmērīgais vairākums vismaz to izvēli ir veikuši, kamēr pārējie ir atkrituši. Šie atkritušie studenti vairs nav vērības vērti, tāpēc viņus vairs pat nepieskaita pie studentu kopas. Ja Otrdienā pamodās specīgie, tad Trešdien pamodās visi pārējie. Datorikas fakultātes studentu asinīs ir vēlu un pavirši uzsākt darbu, bet to tālāk veikt rūpīgi un pa 100%. Trešdiena ir diena, kad ši paviršība un laiskums ir jau atmesti, notiek nopietns un korekts mācību process. Interesanti tas, ka šī mentalitāte rezonē vairākos studentos, visi strādā kopā kā zem viena valdoša mākslīgā intelekta. Trešdiena ir burvīga diena LU DF studentu izaugsmē."
+  },
+  "THURSDAY": {
+    "H1": "Ceturtdien turpināta atdeve",
+    "P": "Par labu laimi studējošo studiju harmonija turpinās. Visu studentu emocijas un mērķi ir labi un noteikti. Izaugsme studentos turpinās kā vēl jebkad - jaunas zināšanas un darbi tiek ražoti un pilnu 100% zirgaspēku. Tas ir, ja studentiem centību varētu izmērīt zirgaspēku, manuprāt, pareizāks termins šīs centības izsvēršanai būtu 'studētspēks'. Var garantēt ka studētspēks šiem datorikas studentiem ir bezzudumu atdevē - centības kalngals. Strāda, studē, strādā, studē, atpūta... kas tas tāds? Ceturtdienas terminoloģijas vārdnīca tāda vārda nepastāv. Taču, studenti to pamanījūši vai nepamanījuši, drīz negribot mainīs savu attieksmi pret studētspēka atdevi uz kaut ko daudz niecīgāku kā iepriekš. Ak, šausmas. Visi sāk jau nervozēt, jo gaisā plīvo Piektdienas nenopietnā gara pēdas."
+  },
+  "FRIDAY": {
+    "H1": "Piektdienas metamorfoze",
+    "P1": "Ir beidzot pienākusi tā diena katra datorikas studenta nedēļas dzīvē. Šī diena pilda savu nozīmi kā barjera starp atpūtu un studējošā dzīvi. Katrs datorikas students atrodas kādā no šīs barjeras joslām.",
+    "P2": "Aiz tās - šim studentam brīvdienas jau prātā ir klāt, neko citu kā daļēji uzspiestu darba dienu, ko vajag atstrādāt uz trešdaļu no visas studētspēka, šie studenti Piektdienu neredz.",
+    "P3": "Tieši barjeras viducī - students apzinās sīs svētās strādnieku dienas nozīmi un vērtību, taču spēj vēl savaldīties un veltīt daudz maz vērtīgu darbu savām studijām. ",
+    "P4": "Pirms tās - pārējie studenti šo tipu uzskatītu par savādu, taču šī šķira ir visprofesionālākā no visām, to mentāla fortitūde un kontrole pār garīgo ir nesamērojama ar pārējiem. Šie studenti nepakļausies nekādām viltībām un atpūtas solījumiem, viņi ar godu pabeigs katras kārtējās nedēļas studijas tās pēdējā darba dienā ar tādu pašu padevi kā pārējās. Tiešām, izcilnieki.",
+    "P5": "Bet lai jel kā uz to skatītos, fakts ir tāds, ka šis ir nedēļas studenta studējošās dzīves gals un to vajadzētu jebkuram vai nu ar atvieglojumu nopūtu vai ar gandarījuma sajūtu par paveikto to nosvinēt."
+  },
+  "SATURDAY": {
+    "H1": "Sestdiena",
+    "H2": "Atpūta ir lieliska",
+    "P": "Labu laiku LU DF studentam sagādā sestdiena. Šī diena ir kā dzīvību glābjošs ūdens izslāpušam cilvēkam Sahāras tuksnesī. Celies, kad gribi, dari, ko gribi - atpūties vai turpini mācities un pildīt mājasdarbus. Jebkurš var darīt jebko, ko tas vēlas! Brīva brīvība tā vistiešākajā nozīmē. Ko tik var izdarīt un, svarīgāk,  neizdarīt šajā dienā. Apzinīgs students jau turpinātu mācīties lietas savā nozarē, kas nav apgūtas lekcijās, taču pat tādiem studentiem, kaut vai viņi ir tik apzinīgi, ir jāsaprot, ka sestdiena ir svēta brīvdienu diena, kad nav nekas jādara. Uzspēlē datorspēli, aizej pastaigāties dabā, dari JEBKO, kas nav saistīts ar datorikas profesionālo vai teorētisko daļu. Students dzīvo bez šaubām un bažām, bez raizēm par neizpildītiem darbiem. Prātā jābūt priecīgām domām, relaksācija ir jāuzslēdz uz maksimumu."
+  },
+  "SUNDAY": {
+    "H1": "Svētdiena",
+    "H2": "Atpūta... beidzas?",
+    "P": "Katram LU DF studentam pienāk atklāsmes mirklis, kad students saprot, ka atūpu laiks jau ir gandrīz galā un drīz būs atkal vistrakākais sākums studenta nedēļā. Saprašana, ka visa šī studenta dzīve ir viens milzīgs cikls, kas jāizpilda katru dienu, katru nedēļu, katru mēnesi, kamēr vien šis cilvēks staigā ar studenta titulu. Šī atklāsme vēl nav viss, lielai daļai studentu sakrājušies mājasdarbi arī ir jāizpilda, jo, protams, sestdienā nekāda mācīšanās nedrīkst notikt. Tāpēc Svētdienas tiek pavadītas ar atlikušo atpūtas kripatiņu un skatu atpakaļ uz studijām. Lai vai cik skarbi tas LU DF studentam var likties, katrs students saprot, ka tā ir un nekas cits nemaz nevarētu būt. Skeptiski par pašreizējo situāciju, students ar paceltu uzaci vēl joprojām plāno, ko iesākt ar mājasdarbiem, jo, protams, pēc studenta uzskatiem vēl ir brīvdiena - kāpēc, lai students nodarbotos ar darba lietām?"
+  }
+}
