@@ -6,13 +6,6 @@ img {
   width: 50%;
 }
 
-@media (max-width: 1130px) {
-  .title {
-    padding-top: 1em;
-    top: 1em;
-  }
-}
-
 .text {
   padding-right: 10px;
   padding-left: 10px;
@@ -49,14 +42,20 @@ img {
 }
 
 @media (max-width: 1490px) {
-  .img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  .text {
+    padding-top: 0;
+  }
+}
+
+@media (max-width: 1130px) {
+  .title {
+    padding-top: 1em;
+    top: 1em;
   }
   .text {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    clear: both;
+  }
+  .img {
+    margin: 0 auto;
   }
 }
